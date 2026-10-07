@@ -209,35 +209,35 @@ The notebook contains the following visualizations:
 
 ### 1. Missing Values Before Data Cleaning
 
-![Missing Values](Visualizations/missing_values_before_cleaning.png)
+<img width="1184" height="674" alt="01_Missing_Values_Before_Data_Cleaning" src="https://github.com/user-attachments/assets/c569259b-e78c-4c5f-89ee-e7c7888b1276" />
 
 ### 2. Distribution of Genuine and Fraudulent Job Postings
 
-![Fraud Distribution](Visualizations/genuine_vs_fraudulent_postings.png)
+<img width="684" height="574" alt="02_Genuine_vs_Fraudulent_Job_Postings" src="https://github.com/user-attachments/assets/6210999c-bb41-4c25-9d26-fbfadfd649a4" />
 
 ### 3. Fraud Percentage by Employment Type
 
-![Employment Type and Fraud](Visualizations/fraud_percentage_by_employment_type.png)
+<img width="984" height="674" alt="03_Fraud_Percentage_by_Employment_Type" src="https://github.com/user-attachments/assets/1b7917bf-bcb2-4c54-9acc-371cb908c614" />
 
 ### 4. Company Logo Presence and Fraud Label
 
-![Company Logo and Fraud](Visualizations/company_logo_vs_fraud_label.png)
+<img width="684" height="574" alt="04_Company_Logo_Presence_and_Fraud_Label" src="https://github.com/user-attachments/assets/19718ac4-cdb3-4def-8c2e-0e652e578c54" />
 
 ### 5. Job Description Length by Fraud Label
 
-![Job Description Length](Visualizations/job_description_length_by_fraud_label.png)
+<img width="884" height="574" alt="05_Job_Description_Length_by_Fraud_Label" src="https://github.com/user-attachments/assets/706a2a0d-be02-4a05-b597-c002996d7aa4" />
 
 ### 6. Fraudulent Proportion Across the 10 Most Common Industries
 
-![Industry and Fraud](Visualizations/fraud_proportion_across_industries.png)
+<img width="1184" height="674" alt="06_Fraudulent_Proportion_Across_Major_Industries" src="https://github.com/user-attachments/assets/f0bf281c-c1ff-4470-804c-8dec7438c5e7" />
 
 ### 7. Screening Questions and Fraud Label
 
-![Screening Questions](Visualizations/screening_questions_vs_fraud_label.png)
+<img width="2970" height="1774" alt="07_Screening_Questions_and_Fraud_Label" src="https://github.com/user-attachments/assets/9aefef34-8db6-43ce-b027-f881bcf79b9b" />
 
 ### 8. Telecommuting Availability and Fraud Label
 
-![Telecommuting](Visualizations/telecommuting_vs_fraud_label.png)
+<img width="2970" height="1774" alt="08_Telecommuting_Availability_and_Fraud_Label" src="https://github.com/user-attachments/assets/e98480f4-3cf3-4dc5-9d02-129325de9ce9" />
 
 > Rename the image references above to the actual screenshot filenames when the visualization images are uploaded to GitHub.
 
