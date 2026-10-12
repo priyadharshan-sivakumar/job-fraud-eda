@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Online Job Postings to Understand Patterns Associated with Recruitment Fraud
+# Exploratory Data Analysis of Online Job Postings Recruitment Fraud
 
 ## Project Information
 
